@@ -1,13 +1,10 @@
 {
   "files": {
-    "main.css": "/React-Projects/static/css/main.7559e5b2.css",
-    "main.js": "/React-Projects/static/js/main.d064f21b.js",
-    "index.html": "/React-Projects/index.html",
-    "main.7559e5b2.css.map": "/React-Projects/static/css/main.7559e5b2.css.map",
-    "main.d064f21b.js.map": "/React-Projects/static/js/main.d064f21b.js.map"
+    "main.js": "/React-Projects/Paragraph-para_word_counter/static/js/main.c2ed4354.js",
+    "index.html": "/React-Projects/Paragraph-para_word_counter/index.html",
+    "main.c2ed4354.js.map": "/React-Projects/Paragraph-para_word_counter/static/js/main.c2ed4354.js.map"
   },
   "entrypoints": [
-    "static/css/main.7559e5b2.css",
-    "static/js/main.d064f21b.js"
+    "static/js/main.c2ed4354.js"
   ]
 }
